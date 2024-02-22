@@ -35,3 +35,27 @@ List l1=[
   },
 
 ];
+
+List l2 = [
+
+  {
+    'icon' : Icons.notifications_none,
+    'name' : 'Notifications'
+  },
+
+  {
+    'icon' : Icons.mode_comment_outlined,
+    'name' : 'Reviews'
+  },
+
+  {
+    'icon' : Icons.credit_card_outlined,
+    'name' : 'Payments'
+  },
+
+  {
+    'icon' : Icons.settings_outlined,
+    'name' : 'Settings'
+  },
+
+];
